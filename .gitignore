@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore non-code
+
+audio/*
+images/*
+videos/*
