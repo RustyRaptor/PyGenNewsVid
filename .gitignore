@@ -133,3 +133,4 @@ dmypy.json
 audio/*
 images/*
 videos/*
+link_logs.txt
